@@ -478,9 +478,9 @@ h6,
 #header1-1 .mbr-section-lead {
   font-size: 24px;
 }
-#social-buttons4-6 .mbr-section-title,
-#social-buttons4-6 .btn-social {
-  color: #fff;
+#msg-box3-l .mbr-section-title,
+#msg-box3-l p {
+  color: #000;
 }
 #ext_menu-9 .hide-buttons .nav-btn {
   display: none !important;
