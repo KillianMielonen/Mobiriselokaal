@@ -588,25 +588,10 @@
             "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Inspiratie",
           "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-13",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "",
-          "text2": "",
-          "text3": ""
         },
         {
           "_tags": [
@@ -979,8 +964,8 @@
           "_name": "header3",
           "_anchor": "header3-18",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -1173,7 +1158,7 @@
           "_anchor": "header3-1a",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": false
           },
