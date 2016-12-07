@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Project multidisciplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "information.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -610,7 +610,7 @@
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -718,8 +718,8 @@
           "_name": "features3",
           "_anchor": "features3-f",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
