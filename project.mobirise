@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Project multidisciplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "Images.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -263,7 +263,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -273,7 +273,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -283,17 +283,17 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/thumb-img-7515-1024-2000x2666-16-2000x2666-33.jpg",
                 "image": "@PROJECT_PATH@/assets/images/thumb-img-7515-1024-2000x2666-16.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -303,7 +303,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -313,7 +313,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -333,7 +333,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -343,7 +343,7 @@
                 "active": false
               },
               {
-                "tags": "Process",
+                "tags": "Vooronderzoek",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -353,7 +353,7 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -363,7 +363,7 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -373,7 +373,7 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -383,7 +383,7 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -393,7 +393,7 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -403,14 +403,14 @@
                 "active": false
               },
               {
-                "tags": "Design",
+                "tags": "Ontwerpproces",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-7525-2000x1500-79-2000x1500-35.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-7525-2000x1500-79.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
