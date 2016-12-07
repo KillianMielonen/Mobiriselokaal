@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Project multidisciplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "Product.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1230,7 +1230,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/8e48f7f033dc128133ab383ddb3149d1-1400x1753-59.jpg",
+              "src": "@PROJECT_PATH@/assets/images/8e48f7f033dc128133ab383ddb3149d1-1400x1753-0.jpg",
               "link": "",
               "alt": "",
               "title": "",
