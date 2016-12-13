@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Project multidisciplinariteit",
-    "currentPage": "Product.html",
+    "currentPage": "information.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -323,7 +323,7 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7668-600x450-9.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -339,7 +339,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/werkplek-elke-600x450-30.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -432,7 +432,7 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0388-600x450-96.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
