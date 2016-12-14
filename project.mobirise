@@ -666,20 +666,6 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/linus-lohoff-2000x2758-19.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/zachte-betonblok-2000x955-11.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -709,34 +695,6 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/linus-lohoff-photography-211-2000x2994-94.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/06e99208e67b13eaae0ef3d65f8ac2a8-2000x2909-17.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/93def3767badb86055610bfc95660bcd-2000x2997-7.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -861,22 +819,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/wrsa-18-000-km-from-earth-by-daniel-firman-2008-1362259649-b-2000x2746-36.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/tadao-cern-black-balloons-9-2000x1418-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wrsa-18-000-km-from-earth-by-daniel-firman-2008-1362259649-b-2000x2746-36.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1020,6 +964,46 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a5-2000x2666-2-2000x2666-26.jpg",
                 "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a5-2000x2666-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3222-2000x1493-93-2000x1493-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3222-2000x1493-93.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3221-2000x1493-49-2000x1493-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3221-2000x1493-49.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3217-2000x2666-69-2000x2666-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3217-2000x2666-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-321a-2000x2666-8-2000x2666-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-321a-2000x2666-8.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1210,6 +1194,20 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-2000x1123-91.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-20161212-wa0006-2000x1123-9.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
