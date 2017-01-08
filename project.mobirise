@@ -842,7 +842,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7523-600x450-21.jpg",
+              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-7523-600x450-21.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -858,7 +858,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-600x336-62.jpg",
+              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-20161207-105913-burst001-cover-600x336-62.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -874,7 +874,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7527-600x450-83.jpg",
+              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-7527-600x450-83.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1499,7 +1499,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7523-600x450-2127.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7523-600x450-21.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1515,7 +1515,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-600x336-6228.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-600x336-62.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1531,7 +1531,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7527-600x450-8329.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7527-600x450-83.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
