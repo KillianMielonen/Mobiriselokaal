@@ -1177,7 +1177,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-20161212-wa0006-2000x1123-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161212-wa0006-2000x1123-922.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1191,7 +1191,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-20161214-093046-2000x2500-861.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20161214-093046-2000x2500-8623.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1205,7 +1205,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/render-voor-logboek-2000x1124-952.jpg",
+                "image": "@PROJECT_PATH@/assets/images/render-voor-logboek-2000x1124-9524.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1219,7 +1219,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/render-1-2000x1125-473.jpg",
+                "image": "@PROJECT_PATH@/assets/images/render-1-2000x1125-4725.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1233,7 +1233,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/achteraanzicht-2000x1124-464.jpg",
+                "image": "@PROJECT_PATH@/assets/images/achteraanzicht-2000x1124-4626.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1247,7 +1247,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/zijaanzicht-2000x1124-715.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zijaanzicht-2000x1124-7127.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1261,7 +1261,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/zijnaanzicht-2-2000x1124-256.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zijnaanzicht-2-2000x1124-2528.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1275,7 +1275,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/ijsje-zicht-2000x1124-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ijsje-zicht-2000x1124-629.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1435,7 +1435,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/casestudy-eindresultaten-1400x989-67.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-0215-1400x930-37.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1521,7 +1521,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7523-600x450-218.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7523-600x450-2130.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1537,7 +1537,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-600x336-629.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20161207-105913-burst001-cover-600x336-6231.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1553,7 +1553,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-7527-600x450-8310.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7527-600x450-8332.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
