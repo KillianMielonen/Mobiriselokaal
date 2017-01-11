@@ -23,7 +23,7 @@
     "publishType": "github",
     "publishPath": "file:///E:/unief%20antwerpen%20website%20dingen/Mobirise%20lokaal",
     "versionFirst": "3.9.0",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
@@ -102,7 +102,7 @@
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Ontwerpproces</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiratie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Vooronderzoek</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Ontwerpproces</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process eindresultaat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Uitvoering Eindresultaat</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Research</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process final design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Making of a final design</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -159,8 +159,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Look 2ce",
-          "text": "Using balance and optical illusions to create objects",
+          "title": "Look Twice",
+          "text": "Creating objects using balance and optical illusions",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -216,13 +216,16 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_anchor": "form1-t",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -232,10 +235,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "CONTACT&nbsp;<br><br>",
+          "subtitle": "Indien u meer informatie wenst over ons project, mag u ons steeds contacteren!",
           "form": {
             "action": "killianmielonen4f7@gmail.com",
             "alerts": {
@@ -264,6 +267,29 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Where ideas are created!",
+          "meta": "Trial&amp;Error"
         },
         {
           "_inherit": "menu",
@@ -326,7 +352,7 @@
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -348,7 +374,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Ontwerpproces</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiratie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Vooronderzoek</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Ontwerpproces</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process eindresultaat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Uitvoering Eindresultaat</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Research</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process final design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Making of a final design</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -356,8 +382,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "images": [
               {
                 "tags": "Responsive",
@@ -434,7 +460,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Inspiratie",
+          "title": "Inspiration",
           "meta": ""
         },
         {
@@ -453,7 +479,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Wij zijn opzoek gegaan naar inspiratiebeelden binnen de thema's balans en illusies. Door te werken met deze thema's willen wij een product ontwerpen dat het publiek kan laten verwonderen over de mogelijkheden en grenzen van balans en illusies.</p><p><br></p>"
+          "text": "<p>Als inspiratie werden wij geïntrigeerd door het thema balans, stabiliteit van het onwezelijke, illusie en surrealisme. Met deze thema’s als basis willen wij een object ontwerpen dat de waarnemer weet te verwonderen en doet nadenken over hoe het object tot stand komt. Dit door de grenzen hiervan af te tasten.&nbsp;</p><p><br></p>"
         },
         {
           "_tags": [
@@ -467,22 +493,8 @@
             "timeout": "5",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/cityscapes-desert-l-2000x1000-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/8baa06168fd39ac99115815490df8b70-2000x1333-64.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cityscapes-desert-l-2000x1000-33.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -538,20 +550,6 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/tokujin-yoshioka-element-dining-table-round-wdv-2000x1377-78.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/tokujin-agravic-table-1-2000x1645-48.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -577,6 +575,34 @@
                 "text": "",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/489de721426041-2000x1333-59.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/489de721426041-2000x1333-59.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
@@ -590,6 +616,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -599,11 +628,11 @@
           "_anchor": "header3-15",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Vooronderzoek",
+          "title": "Research",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -618,11 +647,11 @@
           },
           "_anchor": "content1-16",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Experimenten rond het thema balans met alledaagse objecten om te onderzoeken hoe ver men kan gaan zonder de balans te breken.</p>"
+          "text": "<p>Ons vooronderzoek bestond voornamelijk uit experimenten rond de thema’s balans en illusie. Met alledaagse objecten onderzoeken we hoe ver we kunnen gaan met het manipuleren van de zwaartekracht zonder de balans te verbreken.</p>"
         },
         {
           "_tags": [
@@ -638,8 +667,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a2-2000x2666-63-2000x2666-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a2-2000x2666-63.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-3-2000x2666-74-2000x2666-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-3-2000x2666-74.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -648,8 +677,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a1-2000x2666-19-2000x2666-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a1-2000x2666-19.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-2-2000x2666-72-2000x2666-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-2-2000x2666-72.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -658,8 +687,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-img-7508-1024-2000x2000-0-2000x2000-94.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-img-7508-1024-2000x2000-0.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-11-2000x2000-6-2000x2000-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-11-2000x2000-6.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -668,8 +697,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-img-7509-1024-2000x2000-45-2000x2000-67.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-img-7509-1024-2000x2000-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-1-2000x2000-2-2000x2000-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-1-2000x2000-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -678,8 +707,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/thumb-img-7506-1024-2000x2000-82-2000x2000-97.jpg",
-                "image": "@PROJECT_PATH@/assets/images/thumb-img-7506-1024-2000x2000-82.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-10-2000x2000-41-2000x2000-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-10-2000x2000-41.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -688,8 +717,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a4-2000x1500-71-2000x1500-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a4-2000x1500-71.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-4-2000x1500-91-2000x1500-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-4-2000x1500-91.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -698,8 +727,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/balans-test-2000x1500-33-2000x1500-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/balans-test-2000x1500-33.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-9-2000x1500-35-2000x1500-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-9-2000x1500-35.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -708,8 +737,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a5-2000x2666-2-2000x2666-26.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-31a5-2000x2666-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-5-2000x2666-23-2000x2666-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-5-2000x2666-23.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -718,8 +747,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3222-2000x1493-93-2000x1493-72.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3222-2000x1493-93.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-8-2000x1493-0-2000x1493-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-8-2000x1493-0.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -728,8 +757,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3221-2000x1493-49-2000x1493-0.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3221-2000x1493-49.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-7-2000x2666-8-2000x2666-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-7-2000x2666-8.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -738,8 +767,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3217-2000x2666-69-2000x2666-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3217-2000x2666-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-6-2000x2666-91-2000x2666-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-6-2000x2666-91.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -748,8 +777,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-321a-2000x2666-8-2000x2666-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-321a-2000x2666-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-13-2000x1500-17-2000x1500-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-13-2000x1500-17.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -758,20 +787,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15542004-696686937156334-9162189779234260178-n-2000x2666-8-2000x2666-53.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15542004-696686937156334-9162189779234260178-n-2000x2666-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/foto-12-2000x1500-38-2000x1500-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-12-2000x1500-38.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15317899-687608168064211-4154591798919611929-n-2000x1494-66-2000x1494-95.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15317899-687608168064211-4154591798919611929-n-2000x1494-66.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "1",
@@ -803,7 +822,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Ontwerpprocess",
+          "title": "Design Process",
           "meta": "Trial&amp;Error"
         },
         {
@@ -813,12 +832,15 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#c0a375"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#000000"
             }
           },
           "_anchor": "features1-1j",
           "_params": {
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#c0a375",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -842,7 +864,7 @@
           },
           "media1": {
             "image": {
-              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-7523-600x450-21.jpg",
+              "src": "@PROJECT_PATH@/assets/images/balloons-600x450-30.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -853,12 +875,12 @@
             }
           },
           "title1": "Balloons",
-          "subtitle1": "Levenscyclus van ballon",
-          "caption1": "Ons eerste idee was om een ruimtelijke opstelling te maken met ballonnen om de levenscyclus van een ballon uit te beelden om het thema zwaartekracht hier bij te betrekken hadden we de cyclus omgedraaid.",
+          "subtitle1": "Lifecycle of a balloon",
+          "caption1": "Aan de hand van schetsen te maken, resulteren we in veel ideeën. Één van onze ideeën was om een ruimtelijke opstelling te maken om de ‘levenscyclus’ van een ballon uit te beelden. Hiervoor zouden we werken rond het thema balans en de wetmatigheid zwaartekracht. ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-20161207-105913-burst001-cover-600x336-62.jpg",
+              "src": "@PROJECT_PATH@/assets/images/balans-600x450-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -868,13 +890,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\"><br>Balans</span><br>",
-          "subtitle2": "Zware plaat balanceren",
-          "caption2": "Het tweede idee was om een zware massieve plaat te balanceren op twee dunne 'poten' met de bedoeling dat de toekijker zich vragen stelde bij hoe de plaat in balans blijft en de poten niet afbreken.Dit idee is wegens de moeilijkheidsgraad van de uitvoering en tijdsconstricties niet uitgevoerd.",
+          "title2": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Balance</span><br>",
+          "subtitle2": "Balancing a heavy plate",
+          "caption2": "Een ander idee was om een zware natuurstenen plaat te balanceren op twee dunne steunen. De intentie hierachter is dat de toeschouwer zich vragen stelt over de opstelling van het geheel. Hoe dit mogelijk is. Wegens vastgelegde tijdsconstrictie en een hoge moeilijkheidsgraad van uitvoering, zijn we niet verder gegaan met dit idee.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "file:///C:/Users/Killian/AppData/Local/Mobirise.com/Mobirise/projectData/img-7527-600x450-83.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mobiel-600x450-58.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -884,9 +906,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Balans 2",
-          "subtitle3": "een constructie balanceren op 1 punt",
-          "caption3": "Het derde idee was om een constructie te balanceren op 1 punt, Gebaseerd op het idee van moving art dat aan het plafond hing maar dan vanuit 1 punt op de grond.",
+          "title3": "Balance of a mobile",
+          "subtitle3": "Balancing a construction on one point",
+          "caption3": "Volgende idee was om een soort omgekeerde mobiel te maken. Dit idee vonden we zelf niet sterk genoeg. ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -900,9 +922,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<br><br>Balans en illusie",
-          "subtitle4": "Optische en balans illusie",
-          "caption4": "Het vierde idee en ook definitief uitgevoerde idee was een abstracte vorm te creëeren die vragen oproept over balans en waar ook een optische illusie in verborgen zit.",
+          "title4": "<br><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Balance and illusion</span><br>",
+          "subtitle4": "Optical illusion of a balancing object",
+          "caption4": "Na opnieuw een brainstorm met vele schetsen zijn we tot dit ontwerp gekomen. Het idee was om een abstract object te creëren waar een verborgen vorm inzit die enkel zichtbaar is vanuit één welbepaald standpunt en het object dient zelf ook te verbazen doordat zijn vorm uit balans is. We zijn met behulp van Sketchup en ijzerdraad gaan zoeken naar een interessante vorm. Zo is het definitieve ontwerp ontstaan. ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -947,7 +969,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "Process eindproduct"
+          "meta": "Process final design"
         },
         {
           "_tags": [
@@ -961,7 +983,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/unadjustednonraw-thumb-3217-2000x2666-5.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1087,7 +1109,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/ijsje-zicht-2000x1124-6.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1126,7 +1148,7 @@
             "showMeta": true
           },
           "title": "",
-          "meta": "Uitvoering eindproduct"
+          "meta": "Making of a final design"
         },
         {
           "_tags": [
@@ -1140,7 +1162,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-0709-2000x1500-27.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1252,7 +1274,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc-0224-2000x1329-95.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1354,7 +1376,7 @@
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": false,
             "showBrand": false,
@@ -1376,7 +1398,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Ontwerpproces</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiratie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Vooronderzoek</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Ontwerpproces</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process eindresultaat</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Uitvoering Eindresultaat</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Overview</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Product.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-12\">Inspiration</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#header3-15\">Research</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Product.html#header3-18\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Design Process</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#features1-1j\">Trial&amp;Error</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-19\">Process final design</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#slider3-1m\">Making of a final design</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Product.html#msg-box7-j\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"information.html\">Contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1413,7 +1435,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-0215-1400x930-37.jpg",
+              "src": "@PROJECT_PATH@/assets/images/productfoto-1400x1168-29.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1432,8 +1454,8 @@
               "size": 0
             }
           },
-          "title": "Look &nbsp;2ce",
-          "text": "Onze visie is een object te creëren dat niet te begrijpen is door er slechts één maal naar te kijken. Dit hebben wij bereikt met behulp van twee illusies. Als eerst is er gebruik gemaakt van een optische illusie waarbij je alleen vanuit één bepaald perspectief de driehoek ziet. Bij de tweede illusie is er gebruik gemaakt van balans door het publiek te laten denken dat het object niet in balans is terwijl dit niet het geval is.",
+          "title": "Look &nbsp;Twice",
+          "text": "Onze intentie is een object ontwerpen die verwondering opwekt bij de toeschouwer. Dit doen we aan de hand van meerdere illusies. We maken gebruik van een soort  trompe l'oeil. Je kan slechts een driehoek zien vanuit een opgelegd standpunt, vanuit alle andere zie je dit niet. Door het object zo te maken dat het uit balans lijkt, spelen we met de wetmatigheid zwaartekracht. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]

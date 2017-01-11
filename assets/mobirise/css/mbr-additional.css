@@ -488,6 +488,16 @@ h6,
 #form1-t .form-control-label {
   color: #232323;
 }
+#form1-t .mbr-section-title {
+  color: #000000;
+}
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1o H3 {
+  text-align: right;
+}
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -560,6 +570,9 @@ h6,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-15 H3 {
+  text-align: right;
+}
 #content1-16 P {
   text-align: center;
 }
@@ -568,7 +581,10 @@ h6,
   text-align: center;
 }
 #features1-1j .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #c0a375;
+}
+#features1-1j .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #000000;
 }
 #header3-1k .mbr-section-title,
 #header3-1k .mbr-section-subtitle {
